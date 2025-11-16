@@ -37,7 +37,7 @@ I'm a passionate individual with a strong interest in building interactive web a
 </p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd4YTQ4djdyZW5jZGR6NGRhMmF4NWsycWp3Mm5pczk0M3N2Nm1uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="60" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd4YTQ4djdyZW5jZGR6NGRhMmF4NWsycWp3Mm5pczk0M3N2Nm1uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200" />
 </div>
 
 ---
