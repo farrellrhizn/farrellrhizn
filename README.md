@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&style=flat-square&color=blue" alt=""/>
+  <a href="https://github.com/farrellrhizn">
+    <img src="https://komarev.com/ghpvc/?username=farrellrhizn&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>Hi 👋, I'm Farrell Abrar Rhiznanda!</h1>
-  <h3>A [Fullstack Web Developer] from Earth.</h3>
+  <h3>Fullstack Web Developer from Earth🌍.</h3>
 </div>
 
 ---
 
 ### 🌟 About Me
 
-I'm a passionate individual with a strong interest in [Your 2-3 main interests, e.g., building interactive web applications, exploring new technologies, and open-source contribution]. I believe good code is an art form, and I always aim to blend creativity with functionality.
+I'm a passionate individual with a strong interest in building interactive web applications, exploring new technologies, and open-source contribution. I believe good code is an art form, and I always aim to blend creativity with functionality.
 
 <img src="https://media.giphy.com/media/RbDKzv5LvacgNkDyqZ/giphy.gif" width="300" />
 
