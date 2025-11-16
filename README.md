@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=farrellrhizn&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>Hi 👋, I'm Farrell Abrar Rhiznanda!</h1>
-  <h3>Fullstack Web Developer from Earth🌍.</h3>
+  <h3>Junior Fullstack Web Developer.</h3>
 </div>
 
 ---
@@ -11,8 +11,6 @@
 ### 🌟 About Me
 
 I'm a passionate individual with a strong interest in building interactive web applications, exploring new technologies, and open-source contribution. I believe good code is an art form, and I always aim to blend creativity with functionality.
-
-<img src="https://media.giphy.com/media/RbDKzv5LvacgNkDyqZ/giphy.gif" width="300" />
 
 **I'm currently learning React, Laravel, and web architecture.**
 
@@ -22,7 +20,7 @@ I'm a passionate individual with a strong interest in building interactive web a
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,nextjs,nodejs,express,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,nextjs,nodejs,express,mysql,git,github,vscode,figma" />
   </a>
 </p>
 ---
@@ -31,15 +29,15 @@ I'm a passionate individual with a strong interest in building interactive web a
 
 <p align="center">
   <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrellrhizn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark&hide_border=true" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=dark&hide_border=true" alt="My Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farrellrhizn&show_icons=true&theme=dark&hide_border=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrellrhizn&layout=compact&theme=dark&hide_border=true" alt="My Top Languages" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8fbT2rfDK/giphy.gif" width="60" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd4YTQ4djdyZW5jZGR6NGRhMmF4NWsycWp3Mm5pczk0M3N2Nm1uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="60" />
 </div>
 
 ---
