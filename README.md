@@ -12,7 +12,6 @@
 
 I'm a passionate individual with a strong interest in building interactive web applications, exploring new technologies, and open-source contribution. I believe good code is an art form, and I always aim to blend creativity with functionality.
 
-**I'm currently learning React, Laravel, and web architecture.**
 
 ---
 
