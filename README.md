@@ -2,8 +2,8 @@
   <a href="https://github.com/farrellrhizn">
     <img src="https://komarev.com/ghpvc/?username=farrellrhizn&style=flat-square&color=blue" alt=""/>
   </a>
-  <h1>Hi 👋, I'm Farrell Abrar Rhiznanda!</h1>
-  <h3>Junior Fullstack Web Developer.</h3>
+  <h1>Hi, I'm Farrell</h1>
+  <h3>Fullstack Web Developer.</h3>
 </div>
 
 ---
