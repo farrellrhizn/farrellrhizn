@@ -8,41 +8,21 @@
 
 ---
 
-### 🌟 About Me
-
-I'm a passionate individual with a strong interest in building interactive web applications, exploring new technologies, and open-source contribution. I believe good code is an art form, and I always aim to blend creativity with functionality.
-
-
----
-
 ### 🛠️ My Favorite Tech & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,nextjs,nodejs,express,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,nodejs,express,mysql,git,github,gitlab,postman,vscode,figma" />
   </a>
 </p>
 
 ---
-
-### 🔥 My GitHub Streak & Stats
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd4YTQ4djdyZW5jZGR6NGRhMmF4NWsycWp3Mm5pczk0M3N2Nm1uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="250" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrellrhizn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=farrellrhizn&show_icons=true&theme=dark&hide_border=true" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrellrhizn&layout=compact&theme=dark&hide_border=true" alt="My Top Languages" />
-</p>
-
 ---
-
-### 🌐 Let's Connect!
 
 I'm always happy to connect with other developers or anyone with shared interests. Feel free to say hi!
 
