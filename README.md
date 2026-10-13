@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/farrellrhizn">
-    <img src="https://komarev.com/ghpvc/?username=farrellrhizn&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>Hi, I'm Farrell</h1>
   <h3>Fullstack Web Developer.</h3>
@@ -12,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,php,laravel,nodejs,express,mysql,github,gitlab,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,php,laravel,nodejs,express,nextjs,mysql,docker,github,gitlab,postman" />
   </a>
 </p>
 
